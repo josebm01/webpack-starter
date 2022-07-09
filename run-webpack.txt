@@ -1,0 +1,6 @@
+Para ejecutar el script de webpack:
+
+-- npm run build
+
+Ejecutar el servidor de webpack:
+-- npm start 
